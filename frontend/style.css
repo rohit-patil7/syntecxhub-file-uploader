@@ -1,0 +1,43 @@
+body {
+  font-family: Arial;
+  background: #1e2a4a;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.container {
+  background: #2d3c66;
+  padding: 25px;
+  border-radius: 10px;
+  width: 420px;
+  color: white;
+}
+
+.upload-box {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#fileList li {
+  background: #445074;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 8px;
+  list-style: none;
+}
+
+.actions {
+  margin-top: 5px;
+  display: flex;
+  gap: 10px;
+}
+
+.download { background: green; color: white; }
+.delete { background: red; color: white; }
