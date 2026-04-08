@@ -18,11 +18,11 @@ A full-stack file upload system using:
 ## 📸 MongoDB Storage (GridFS)
 
 ### Collections
-![Collections](./frontend/5.png)
-![Collections](./frontend/4.png)
+![Collections](./frontend/assets/5.png)
+![Collections](./frontend/assets/4.png)
 ### Files Data
-![Files](./frontend/2.png)
-![Files](./frontend/1.png)
+![Files](./frontend/assets/2.png)
+![Files](./frontend/assets/1.png)
 
 ## 🛠️ Run Project
 
